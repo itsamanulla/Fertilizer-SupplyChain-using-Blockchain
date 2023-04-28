@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.10",
+    "truffle": "^5.5.13"
+  },
+  "name": "supply-chain-truffle-react-main",
+  "description": "Supply chain simulation using blockchain.",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

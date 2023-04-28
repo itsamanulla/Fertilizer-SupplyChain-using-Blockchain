@@ -1,0 +1,49 @@
+hr{
+    position: relative;
+    top: 20px;
+    border: none;   
+    height: 12px;
+    background: black;
+}
+.wait{
+    text-align: center;
+    margin-top: 5rem;
+}
+
+
+/* certificate css */
+
+.containers {
+    border: 20px solid tan;
+    width: 842px;
+    height: 595px;
+    padding: 90px;
+    display: table-cell;
+    vertical-align: middle;
+    
+}
+.logo {
+    margin-left: 130px;
+    color: tan;
+}
+
+.marquee {
+    color: tan;
+    font-size: 48px;
+    margin: 20px;
+}
+.assignment {
+    margin: 20px;
+}
+.person {
+    border-bottom: 2px solid black;
+    font-size: 32px;
+    font-style: italic;
+    margin: 20px auto;
+    width: 400px;
+}
+.reason {
+    margin: 20px;
+}
+
+
